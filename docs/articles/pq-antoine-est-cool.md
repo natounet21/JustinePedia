@@ -1,2 +1,2 @@
-# Pourquoi antoine est cool?
-Parce que il est le plus BG au monde.
+# Pourquoi antoine est trop nul
+Parce que il est le plus nul
