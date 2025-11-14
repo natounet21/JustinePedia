@@ -19,3 +19,6 @@ Pour faire la page tu dois comprendre le MarkDown voici une explication simple :
 Pour faire un titre dans ta ligne mets un # et après un espace après écris ton titre
 
 Pour faire du text just dans ta ligne écris!
+
+### La publier
+Alors après Nat va l'approuver ou pas et publier la misa a jour s tu veux que ce soit plus rapide vas dire a Nat que tu a fait une page!
