@@ -13,12 +13,12 @@ Après tu dois aller sur ce lien : https://github.com/natounet21/JustinePedia/ne
 
 Sur ce lien tu va voir la section `Nommez votre fichier` sur cette section écris le nom de ta page et après TRÈS IMPORTANT RAJOUTER .md A LA FIN
 
-### Faire la page
+## Faire la page
 Pour faire la page tu dois comprendre le MarkDown voici une explication simple : 
 
 Pour faire un titre dans ta ligne mets un # et après un espace après écris ton titre
 
 Pour faire du text just dans ta ligne écris!
 
-### La publier
+## La publier
 Alors après Nat va l'approuver ou pas et publier la misa a jour s tu veux que ce soit plus rapide vas dire a Nat que tu a fait une page!
